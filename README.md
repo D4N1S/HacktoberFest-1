@@ -13,10 +13,10 @@ It's very easy. Don't need to be an expert in coding. Follow the below steps you
 2. Click on Add File button and select Create new file button.
 3. Set the file name with `Your-Full-Name.md` and make your short profile with the following:
 ```
-### YOUR FULL NAME
-- Photo: YOUR PHOTO URL(You can submit a dumy Image from Internet)
-- Location: COUNTRY
-- Github: YOUR GITHUB URL
+### Danish Olvan
+- Photo: https://png.pngtree.com/png-clipart/20190614/original/pngtree-male-student-icon-png-image_3728104.jpg
+- Location: Indonesia
+- Github: https://github.com/D4N1S
 ***
 ```
 Example:
